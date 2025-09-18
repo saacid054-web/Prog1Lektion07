@@ -1,6 +1,6 @@
-package opgave04;
+package opgave06;
 
-public class Opgave04 {
+public class Opgave06 {
     public static void main(String[] args) {
         char[] romanNumber = {'M', 'L', 'X', 'I'}; //1061
         System.out.println(romanNumberToArabicNumber(romanNumber));
